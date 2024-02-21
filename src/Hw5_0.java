@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HW5_0 implements Executable {
+public class Hw5_0 implements Executable {
     @Override
     public void execute() {
         System.out.println("*-----*-----*-----Welcome to HW5_P0!-----*-----*-----*");

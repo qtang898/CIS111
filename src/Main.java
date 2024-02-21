@@ -8,8 +8,9 @@ public class Main {
         menus.add(new Menu(0, "To Exit", new Hw1()));
         menus.add(new Menu(1, "Hello World 1", new Hw1()));
         menus.add(new Menu(2, "Hello World 2", new Hw2()));
-        menus.add(new Menu(3, "HomeWork5 P0", new HW5_0()));
+        menus.add(new Menu(3, "HomeWork5 P0", new Hw5_0()));
         menus.add(new Menu(4, "HomeWork5 P1", new Hw5_1()));
+        menus.add(new Menu(5, "HomeWork5 P2", new Hw5_2()));
 
         Scanner scanner = new Scanner(System.in);
 
